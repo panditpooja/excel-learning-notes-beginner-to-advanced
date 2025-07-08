@@ -1,8 +1,9 @@
 # 📊 Excel Learning Notes: From Beginner to Advanced
 
-[![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green.svg?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-blue.svg?logo=tableau&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
-[![Dashboarding](https://img.shields.io/badge/Focus-Dashboarding-orange.svg?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346.svg?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-007ACC.svg?logo=readthedocs&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
+[![Dashboarding](https://img.shields.io/badge/Focus-Dashboarding-F58220.svg?logo=tableau&logoColor=white)]()
+
 
 This repository contains my **Excel learning notes**. It is designed for **data enthusiasts** aiming to master Excel for **data cleaning, analysis, and visualization**.  
 
